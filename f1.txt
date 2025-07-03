@@ -1,3 +1,5 @@
 Hello...
 Welcome to AIML lab
+AIML : Artificial Inteligence and Machine Learning
+
 
